@@ -22,8 +22,7 @@ test_file = "test.csv"
 SUBMISSION_PATH = "./"
 seed = 0
 
-print
-train_file, seed
+print (train_file, seed)
 
 
 # 输出得分
